@@ -1,0 +1,11 @@
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\bin\Debug\netcoreapp3.1\Encode_Decode.exe
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\bin\Debug\netcoreapp3.1\Encode_Decode.deps.json
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\bin\Debug\netcoreapp3.1\Encode_Decode.runtimeconfig.json
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\bin\Debug\netcoreapp3.1\Encode_Decode.runtimeconfig.dev.json
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\bin\Debug\netcoreapp3.1\Encode_Decode.dll
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\bin\Debug\netcoreapp3.1\Encode_Decode.pdb
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\obj\Debug\netcoreapp3.1\Encode_Decode.csprojAssemblyReference.cache
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\obj\Debug\netcoreapp3.1\Encode_Decode.AssemblyInfoInputs.cache
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\obj\Debug\netcoreapp3.1\Encode_Decode.AssemblyInfo.cs
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\obj\Debug\netcoreapp3.1\Encode_Decode.dll
+C:\Users\mehrdad\source\repos\Encode_Decode\Encode_Decode\obj\Debug\netcoreapp3.1\Encode_Decode.pdb
